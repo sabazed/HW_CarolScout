@@ -1,3 +1,5 @@
+# Carol Scout
+
 <p>Carol really liked the "Penguin Carol" simulator that we implemented in homework PINGU CAROL and has already proven to be useful on a few expeditions.</p>
 <p>Now Carol came up with more ideas and has a new assignment for us: She would like a program that not only allows the simulation of different situations, but that can even independently find (optimal) paths through the Penguin Carol world to get from to come from one place to the next.</p>
 <p><strong>The rules for how Carol can move around the field and what instructions are allowed in certain situations are the same as those described in PINGU CAROL task.</strong></p>
